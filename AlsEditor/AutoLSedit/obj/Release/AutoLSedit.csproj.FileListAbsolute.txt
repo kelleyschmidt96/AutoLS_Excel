@@ -1,0 +1,14 @@
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.csproj.AssemblyReference.cache
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.Form1.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.FormComment.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.FormChart.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.FormFill.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.FormInput.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.FormLimits.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.FormSetpoint.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.Properties.Resources.resources
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.csproj.GenerateResource.cache
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.csproj.CoreCompileInputs.cache
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.TrustInfo.xml
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.exe
+C:\Users\a373942\source\repos\ALS_Editor\AlsEditor\AutoLSedit\obj\Release\AutoLSedit.pdb

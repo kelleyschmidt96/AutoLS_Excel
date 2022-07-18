@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoLSedit.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MCD_Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\MCSystem.xmcd</Value>
+    </Setting>
+    <Setting Name="RecentFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Temp\\Test123.xml,C:\\Temp\\Snake_Every100nm.xml</Value>
+    </Setting>
+    <Setting Name="MCD_Root" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Bench\Components\ECU\MCD</Value>
+    </Setting>
+    <Setting Name="TPXL_Root" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\</Value>
+    </Setting>
+    <Setting Name="StepTime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.0</Value>
+    </Setting>
+    <Setting Name="MaxST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">30.0</Value>
+    </Setting>
+    <Setting Name="MinST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">15.0</Value>
+    </Setting>
+    <Setting Name="Measure" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.0</Value>
+    </Setting>
+    <Setting Name="Dyno" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.0</Value>
+    </Setting>
+    <Setting Name="Limit" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">T_OIL</Value>
+    </Setting>
+    <Setting Name="LimitDescription" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Oil Temperature</Value>
+    </Setting>
+    <Setting Name="ExtDataRoot" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\vcn.ds.volvo.net\\vpt-hag\\proj09\\013810\\SharedFiles\\AutoLS\\Supplimental\\AUTOLS_Supp.xml</Value>
+    </Setting>
+    <Setting Name="ImportRoot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
